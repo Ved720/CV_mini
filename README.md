@@ -5,6 +5,14 @@ A Computer Vision project that uses **YOLO26 (Ultralytics)** to detect potholes 
 **Detection Class:** Pothole (Class ID: 0)
 
 ---
+## 👥 Team Members
+
+This project was developed collaboratively by:
+
+1. **Muskan Khokhar**
+2. **Mohit Dave**
+3. **Ved Patel**
+4. **Noman Imran Teli**
 
 ## 🚀 Project Overview
 
